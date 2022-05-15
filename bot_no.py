@@ -13,7 +13,7 @@ async def bot_no(self, message):
 
 			# This is very fun. You should include it in all of your Discord bots.
 
-			if random.randint(1, 10) == 1 and str(message.author) != "thatretrodev#3049":
+			if random.randint(1, 100) == 1 and str(message.author) != "thatretrodev#3049":
 				# no::rickroll
 				
 				print("[no] Running no::rickroll")
